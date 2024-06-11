@@ -1,35 +1,37 @@
 # note
-https://github.com/0xPARC/zk-bug-tracker
-https://github.com/0xPARC/zkrep1
-https://github.com/0xPolygonZero/plonky2
-https://github.com/0xmetaschool/Learning-Projects
-https://github.com/AliveToolkit/alive2
-https://github.com/Ankr-network/ankr.is
-https://github.com/ApeWorX/ape
-https://github.com/AztecProtocol/Setup
-https://github.com/AztecProtocol/barretenberd
-https://github.com/ConsenSys/anark
-https://github.com/Consensys/teku
-https://github.com/CryptozombiesHQ/cryptozombie-les
-https://github.com/Cyfrin/foundry-devops
-https://github.com/Cyfrin/foundry-ful1-course-f23
-https://github.com/Cyfrin/security-and-auditing-fulhttps://github.com/Dapp-Learning-DA0/Dapp-Learning
-https://github.com/Hats-Protocol/hats-protocol
-https://github.com/HorizenLabs/poseidon2
-https://github.com/ItsNickBarry/hardhat-contract-sihttps://github.com/0penZeppelin/openzeppelin-contr
-https://github.com/0penZeppelin/openzeppelin-contra
-https://github.com/Tenderly/tenderly-cli
-https://github.com/TrueBlocks/trueblocks-core
-https://github.com/TrueFiEng/Waffle
-https://github.com/Vectorized/solady
-https://github.com/Zokrates/ZoKrates
-https://github.com/arkworks-rs/accumulation
-https://github.com/arkworks-rs/algebra
-https://github.com/arkworks-rs/bcs
-https://github.com/arkworks-rs/circom-compat
-https://github.com/arkworks-rs/crypto-primitives
-https://github.com/arkworks-rs/dpc
-https://github.com/arkworks-rs/gemini
-https://github.com/arkworks-rs/gm17
-https://github.com/arkworks-rs/groth16
-https://github.com/arkworks-rs/ivls
+- https://github.com/0xPARC/zk-bug-tracker
+- https://github.com/0xPARC/zkrep1
+- https://github.com/0xPolygonZero/plonky2
+- https://github.com/0xmetaschool/Learning-Projects
+- https://github.com/AliveToolkit/alive2
+- https://github.com/Ankr-network/ankr.is
+- https://github.com/ApeWorX/ape
+- https://github.com/AztecProtocol/Setup
+- https://github.com/AztecProtocol/barretenberd
+- https://github.com/ConsenSys/anark
+- https://github.com/Consensys/teku
+- https://github.com/CryptozombiesHQ/cryptozombie-les
+- https://github.com/Cyfrin/foundry-devops
+- https://github.com/Cyfrin/foundry-ful1-course-f23
+- https://github.com/Cyfrin/security-and-auditing-ful
+- https://github.com/Dapp-Learning-DA0/Dapp-Learning
+- https://github.com/Hats-Protocol/hats-protocol
+- https://github.com/HorizenLabs/poseidon2
+- https://github.com/ItsNickBarry/hardhat-contract-si
+- https://github.com/0penZeppelin/openzeppelin-contr
+- https://github.com/0penZeppelin/openzeppelin-contra
+- https://github.com/Tenderly/tenderly-cli
+- https://github.com/TrueBlocks/trueblocks-core
+- https://github.com/TrueFiEng/Waffle
+- https://github.com/Vectorized/solady
+- https://github.com/Zokrates/ZoKrates
+- https://github.com/arkworks-rs/accumulation
+- https://github.com/arkworks-rs/algebra
+- https://github.com/arkworks-rs/bcs
+- https://github.com/arkworks-rs/circom-compat
+- https://github.com/arkworks-rs/crypto-primitives
+- https://github.com/arkworks-rs/dpc
+- https://github.com/arkworks-rs/gemini
+- https://github.com/arkworks-rs/gm17
+- https://github.com/arkworks-rs/groth16
+- https://github.com/arkworks-rs/ivls
